@@ -1,11 +1,1 @@
-@font-face {
-  font-family: "RobotoRegular";
-  font-style: normal;
-  font-weight: 600;
-  src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype"); }
-
-@font-face {
-  font-family: "RobotoItalic";
-  font-style: normal;
-  font-weight: 600;
-  src: url("../fonts/RobotoItalic/RobotoItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/RobotoItalic/RobotoItalic.woff") format("woff"), url("../fonts/RobotoItalic/RobotoItalic.ttf") format("truetype"); }
+@font-face{font-family:"RobotoRegular";font-style:normal;font-weight:600;src:url(../fonts/RobotoRegular/RobotoRegular.eot?#iefix) format("embedded-opentype"),url(../fonts/RobotoRegular/RobotoRegular.woff) format("woff"),url(../fonts/RobotoRegular/RobotoRegular.ttf) format("truetype")}@font-face{font-family:"RobotoItalic";font-style:normal;font-weight:600;src:url(../fonts/RobotoItalic/RobotoItalic.eot?#iefix) format("embedded-opentype"),url(../fonts/RobotoItalic/RobotoItalic.woff) format("woff"),url(../fonts/RobotoItalic/RobotoItalic.ttf) format("truetype")}
